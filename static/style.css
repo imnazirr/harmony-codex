@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header,
+footer {
+    background-color: #f8f9fa;
+    padding: 1em;
+    text-align: center;
+}
+
+.blog-post {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
